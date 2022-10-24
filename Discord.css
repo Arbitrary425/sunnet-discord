@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.discord
+{
+    
+    background-image: url(images/what-is-discord-1920x1080-c3d90ca45f57.jpg);
+    background-size: cover;
+    background-position: center center;
+    height: 100vh;
+    width: 100%;
+    position: fixed;
+    
+   }
+   nav
+   {
+       text-decoration: none;
+      text-align: center;
+      line-height: 1050px;
+      font-size: 25px;
+      
+    }
+  
